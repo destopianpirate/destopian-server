@@ -1,2 +1,4 @@
 node_modules/
 .env
+codebase_graph.md
+CODEBASE_STRUCTURE.md
